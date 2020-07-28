@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.app {
+  
+  display: flex;
+  height: 100vh;
+  overflow-y: hidden;
+}
+
+  
+
+.Nav {
+  display: flex;
+  flex-direction: column;
+} 
+
+.Main {
+  width: 80vw;
+}

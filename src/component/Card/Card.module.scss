@@ -1,0 +1,21 @@
+.Card {
+  height: 40vh;
+  width: 20vw;
+  overflow-y: scroll;
+  padding: 20px;
+  margin-top: 20px;
+  text-align: flex-start;
+  background-color: whitesmoke;
+  border-radius: 5%;
+  font-family: 'Khula', sans-serif;
+  box-shadow: 8px 8px 10px black;
+}
+
+.Card img {
+  height: 150px;
+  width: auto;
+  align-items: center;
+}
+
+
+
